@@ -1,10 +1,8 @@
-Vasquez Docs Source
+# Vasquez Research Documentation
 
-Purpose
-Source-of-truth documentation content as code, independent of any single research repository.
-This repo can publish to GitHub Pages or be consumed by other docs pipelines.
+This repository collects canonical documentation, proofs, and artifacts underlying my research program.
 
-Structure
-- site/: MkDocs or static content
-- references/: pinned permalinks into canonical repos
-
+## Artifacts
+- **ufr-core** — Unified Rigidity Framework (formalized components)
+- **Chronos–EntropyDepth** — Formal depth/rigidity kernel
+- **Cyclone terminal obstruction** — Local wins ⇒ partial isomorphism (Lean)
